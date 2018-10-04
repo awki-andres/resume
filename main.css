@@ -1,0 +1,27 @@
+h3 {
+    text-shadow: 2px 4px #4975ef;
+  }
+  h4 {
+    text-shadow: 3px 2px #9af9bf;
+  }
+  h2 {
+    color: #3347e0;
+  }
+  h2 {
+    font-family: "Courier New", Monospace;
+  }
+  body {
+    font-family: sans serif;
+  
+    background-image: linear-gradient(#a6f5fc, #df93f9);
+  }
+  .small {
+    font-size: 40px;
+  }
+  body {
+    padding: 35px;
+  }
+  div {
+    column-rule-stye: solid;
+  }
+  
